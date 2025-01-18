@@ -1,2 +1,0 @@
-C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\ar.exe qc D:\Documents\c_code_files\cmake_gcc_study\5_cmake_embed\lib\libsum.a CMakeFiles/sum.dir/sum.c.obj
-C:\PROGRA~1\X86_64~1.0-R\mingw64\bin\ranlib.exe D:\Documents\c_code_files\cmake_gcc_study\5_cmake_embed\lib\libsum.a

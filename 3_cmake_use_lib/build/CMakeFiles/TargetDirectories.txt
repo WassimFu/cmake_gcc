@@ -1,3 +1,0 @@
-D:/Documents/c_code_files/cmake_gcc_study/3_cmake_use_lib/build/CMakeFiles/main.dir
-D:/Documents/c_code_files/cmake_gcc_study/3_cmake_use_lib/build/CMakeFiles/edit_cache.dir
-D:/Documents/c_code_files/cmake_gcc_study/3_cmake_use_lib/build/CMakeFiles/rebuild_cache.dir
