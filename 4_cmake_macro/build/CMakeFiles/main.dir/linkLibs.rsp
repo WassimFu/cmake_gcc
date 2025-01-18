@@ -1,0 +1,1 @@
+  -LD:/Documents/c_code_files/cmake_gcc_study/4_cmake_macro/lib  -lhello -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

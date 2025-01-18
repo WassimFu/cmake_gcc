@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.22)
+project(sum)
+set(CMAKE_C_STANDARD 17)
+include_directories(${INC_PATH})
+aux_source_directory(./ SRC)
+message("sum:" ${SRC})
+set(LIBRARY_OUTPUT_PATH ${LIB_PATH})
+add_library(${SUM} STATIC ${SRC})

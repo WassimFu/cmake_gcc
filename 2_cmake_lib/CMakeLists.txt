@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22)
+project(cmake_lib)
+include_directories(${PROJECT_SOURCE_DIR}/include)
+aux_source_directory(${PROJECT_SOURCE_DIR}/source SRC)
+set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
+add_library(hello STATIC ${SRC})
